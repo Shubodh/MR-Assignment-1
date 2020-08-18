@@ -12,3 +12,5 @@ For visualization tasks, you don't have to exactly follow the task precisely as 
 
 ### Submission
 On Moodle, all you have to submit is this jupyter notebook along with the two given images `color.jpg` and `depth.png`. Every other file (such as `pcd` files) must be generated when I run the notebook with just these two as input. So after you're done collaborating with your group partner on GitHub Classrooms, ensure you don't zip the entire repo but just these 3 files (notebook, `color.jpg`, `depth.jpg`) when you submit to Moodle. 
+
+There will be no deadline extensions. Go through the late policy in the official "Course Information" document.
