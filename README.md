@@ -2,7 +2,9 @@
 
 This assignment is intended to first get you acquainted with Open3D, then you will understand and visualize Euler angle representations and gimbal lock. The deadline is 30th August 2020 23:59 hrs.
 
-The ipython notebook (`.ipynb`) is self-sufficient and has all the information you need to get started with the assignment (including virtual environments), you don't need any corresponding PDF doc. Just fire up the notebook and get going! 
+The ipython notebook (`.ipynb`) is self-sufficient and has all the information you need to get started with the assignment, you don't need any corresponding PDF doc. Just fire up the notebook and get going! 
+
+For setting up conda/virtual env, see `./misc/installation/README.md` for step by step instructions.
 
 A PDF doc has still been uploaded but it serves no other purpose than quick reference. 
 
